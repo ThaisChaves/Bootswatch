@@ -25,7 +25,24 @@
     {
       "type": "page-title",
       "title": "Confira nossas marcas",
-      "description": ""
+      "description": "Brilho + renda + cores para fazer bonito neste verão"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/7.png"
+        },
+        {
+          "img": "/img/uploads/9.png"
+        },
+        {
+          "img": "/img/uploads/conjuntosutien.png"
+        },
+        {
+          "img": "/img/uploads/8.png"
+        }
+      ]
     }
   ]
 }
