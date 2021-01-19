@@ -7,7 +7,7 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/5.png",
+          "img": "/img/uploads/cosmo1.png",
           "alt": "",
           "start": "",
           "end": ""
@@ -18,10 +18,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/6.png"
-        },
-        {
-          "img": "/img/uploads/biquine-vermelho.png"
+          "img": "/img/uploads/cosmo2.png"
         }
       ]
     },
