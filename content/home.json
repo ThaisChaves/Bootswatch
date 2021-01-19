@@ -26,20 +26,6 @@
       "type": "page-title",
       "title": "Confira nossas marcas",
       "description": ""
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/4.png"
-        },
-        {
-          "img": "/img/uploads/3.png"
-        },
-        {
-          "img": "/img/uploads/2.png"
-        }
-      ]
     }
   ]
 }
