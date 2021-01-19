@@ -7,7 +7,7 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/ezgif.com-gif-maker-1-.webp",
+          "img": "/img/uploads/5.png",
           "alt": "",
           "start": "",
           "end": ""
@@ -15,8 +15,15 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/6.png"
+        },
+        {
+          "img": "/img/uploads/biquine-vermelho.png"
+        }
+      ]
     },
     {
       "type": "page-title",
