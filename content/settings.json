@@ -1,23 +1,23 @@
 {
-  "store_id": 1117,
-  "name": "Bootswatch",
   "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "Bootswatch",
-  "description": "Bootswatch",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#c7ede7",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cerulean",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/design-sem-nome-1-1-.png",
+  "name": "Bootswatch",
+  "short_name": "Bootswatch",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/design-sem-nome-1-2-.png",
+  "country_code": "BR",
+  "secondary_color": "#40646f",
+  "icon": "/img/uploads/design-sem-nome-1-2-.png",
+  "store_id": 1117,
+  "description": "Bootswatch",
+  "large_icon": "/img/uploads/design-sem-nome-1-2-.png"
 }
