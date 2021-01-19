@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.219b16c04f4d4660329a071005f76d70.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e5173dcbe1b6c444a558fbdff07b68ff.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.491f8b42379ff37312fbe9497944bb83.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.db0821f6b6dadd57cf64f3c1d7a447f6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a5fb4531037f38e9ddccfc1814f6411d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Bootswatch",
+  "short_name": "Bootswatch",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Bootswatch",
+  "background_color": "#ffffff",
+  "theme_color": "#d6e326"
+}
