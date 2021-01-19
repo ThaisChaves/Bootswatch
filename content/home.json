@@ -7,15 +7,8 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/ezgif.com-gif-maker-1-.webp",
+          "alt": "",
           "start": "",
           "end": ""
         }
