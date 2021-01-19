@@ -1,13 +1,13 @@
 {
   "domain": "ecomplus-storefront.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#40646f",
+  "primary_color": "#62354c",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "cosmo",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/copia-de-mares-estrelados-1-.png",
+  "logo": "/img/uploads/logomarcas.png",
   "name": "Bootswatch",
   "short_name": "Bootswatch",
   "lang": "pt_br",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/design-sem-nome-1-2-.png",
   "country_code": "BR",
-  "secondary_color": "#c7eee8",
+  "secondary_color": "#a978a5",
   "icon": "/img/uploads/design-sem-nome-1-2-.png",
   "store_id": 1117,
   "description": "Bootswatch",
